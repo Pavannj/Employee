@@ -1,0 +1,50 @@
+{
+  "users":[
+    
+        
+          {
+            "id": "01",
+            "img" : " ",
+            "name": "Hukum",
+            "email": "hcgupta@cstech.in",
+            "mobile": "950410044",
+            "designation": "HR",
+            "gender": "Male",
+            "course": "MCA",
+            "date": "13-Feb-21"
+          },{
+            "id": "02",
+            "img": "",
+            "name": "Manish",
+            "email": "manish@cstech.in",
+            "mobile": "950410033",
+            "designation": "Sales",
+            "gender": "Male",
+            "course": "BCA",
+            "date": "12-Feb-21"
+          },{
+            "id": "03",
+            "img": "",
+            "name": "yash",
+            "email": "yash@cstech.in",
+            "mobile": "950410022",
+            "designation": "Manager",
+            "gender": "Male",
+            "course": "BSC",
+            "date": "11-Feb-21"
+          },{
+            "id": "04",
+            "img": "",
+            "name": "abhishek",
+            "email": "abhishek@cstech.in",
+            "mobile": "950410011",
+            "designation": "HR",
+            "gender": "Male",
+            "course": "MCA",
+            "date": "13-Feb-21"
+          }
+    
+        ]
+      
+    
+}
